@@ -10,10 +10,9 @@
 ## Table of Contents
 - [Project Sprint 2](#sprint)
 - [App Mockup](#mockup)
-- [Video Demo](#demo)
+- [Video Demos](#demo)
 - [Design and Implementation](#design)
 - [Chatroom, Rideshare and Uno](#features)
-- [TODO](#todo)
 
 ## Project Sprint 2: Nov. 25, 2020 <a name="sprint"></a>
 

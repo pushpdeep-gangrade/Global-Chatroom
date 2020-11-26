@@ -12,7 +12,7 @@
 - [App Mockup](#mockup)
 - [Video Demo](#demo)
 - [Design and Implementation](#design)
-- [App Features](#features)
+- [Chatroom, Rideshare and Uno](#features)
 - [TODO](#todo)
 
 ## Project Sprint 2: Nov. 25, 2020 <a name="sprint"></a>
@@ -27,7 +27,7 @@
 - Foreign exchange students
 - Education/language immersion
 
-### App Features <a name="features"></a>
+### App Features 
 
 - Chatroom app that provides translation options
 - Translates text to speech, speech to text, between languages and visual text, speech to speech.
@@ -98,6 +98,8 @@ TODO: Add xd file
 - The Forgot Password page has the user input the email so that they can receive a link to reset their password
 - An email will not be sent if the user is not signed up (Given email is not in Firebase)
 - Clicking the Cancel button takes the user back to the Login page with no further action
+
+## Chatroom, Rideshare and Uno <a name="features"></a>
 
 ### View Chatrooms
 <br />
